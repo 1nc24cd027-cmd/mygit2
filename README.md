@@ -1,1 +1,1 @@
-# mygit2
+Hello Git
